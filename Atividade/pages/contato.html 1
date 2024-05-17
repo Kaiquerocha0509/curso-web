@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+     <head>
+        <title>Contato</title>
+
+     </head>
+     <body>
+          <h2>ENTRE EM CONTATO, TIRE SUAS DUVIDAS</h2>
+          <hr>
+          <p>adipisicing elit. Aliquid voluptatum tenetur, placeat, quasi veritatis autem ducimus mollitia </p>
+          <h3>ATENDIMENTO</h3>
+          <section>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam eaque vero magnam aperiam cum consequatur debitis vel blanditiis minus provident fugiat aliquid molestias voluptate voluptatem sit, off
+            </p><br>
+            <p>
+
+            dolorum cupiditate voluptatibus blanditiis perferendis officia doloribus facere ab porro inventore incidunt, sapient
+            </p>
+            <p>
+             
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam laudantium temporibus, maxime hic error veritatis alias assumenda quia explicabo dignissimos voluptas cum amet soluta, eum laboriosam incidunt? Nisi, suscipit unde.
+            </p>
+          </section>
+          <hr>
+          <form action="">
+            <h3>Criar sua conta do PortalGeeks</h3>
+            <input type="text" name="nome" required>
+            <input type="text" name="sobrenome" required>
+            <input type="text" name="usuario" required>@PortalGeeks.com.br
+            <input type="password" name="confirm_password" required>
+            <input type="password" name="password" required>
+
+            <input type="submit" value= "enviar">
+
+            <h4>informaçoes pessoais</h4>
+            
+          <p>telefone: <input type="text" name="telefone"</p>
+          <p>nascimento: <input type="date" name="nascimento" id=""</p>
+           
+          <p>Genero</p>
+
+         <p>input type="radio" name="Genero" value="Masculino"</p> 
+         <p>input type="radio" name="Genero" value="Feminino"</p> 
+         <hr>
+
+         <h4>informaçoes Complementares</h4>
+         <p>Escolha seus estilos de jogos preferidos</p>
+
+         <p>input type="checkbox" name="action">Açao</p>
+         <p>input type="checkbox" name="adventure">Aventura</p>
+         <p>input type="checkbox" name="strategy">Estrategia</p>
+         <p>input type="checkbox" name="rpg">rpg</p>
+         <p>input type="checkbox" name="sport">Esportes</p>
+         <p>input type="checkbox" name="racing">Corrida</p>
+         <p>input type="checkbox" name="orther">outros</p>
+         <hr>
+         <p>imagem do seu jogo preferido</p>
+         <input type="file" name="" id="">
+         <hr>
+         <p>selecione sua plataforma preferida</p>
+         <select name="plataforma">
+         <option value="playstation">PS5</option>
+         <option value="xbox">Xbox series</option>
+         <option value="nintendo">switch</option>
+         <option value="pc">PC</option>
+         </select>
+         <hr>
+         <p>Mensagem:</p>
+         <textarea name="mensagem" cols="30" rows="30"></textarea>
+         <p>input type="checkbox" name="propagandas" checked> Aceito receber propagandas de jogos por email.</p>
+
+         <input type="submit" value="enviar">
+
+
+          
+
+          </form>
+     </body>
+</html>

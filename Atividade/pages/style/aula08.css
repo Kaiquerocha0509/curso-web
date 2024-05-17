@@ -1,0 +1,74 @@
+body{
+
+box-sizing: border-box;
+
+}
+
+
+
+
+.top {
+    background-color: black;
+    overflow: hidden;
+}
+
+
+.top a{
+     color: white;
+     text-decoration: none;
+     padding: 14px 16px;
+     display: block;
+     float: left;
+     text-align: center;
+}
+
+.banner{
+    background-color: aqua;
+    padding: 15px;
+    margin-top: 8px;
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+}
+
+.menu {
+    background-color: rgb(55, 0, 255);
+    width: 20%;
+    overflow: auto;
+    float: left;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+    width: 100%;
+    padding: 14px 16px;
+    display: block;
+}
+
+.content {
+    background-color: rgb(81, 255, 0);
+    width: 60%;
+    padding: 0 20px;
+    float: left;
+}
+
+.right {
+    background-color: rgb(229, 245, 7);
+    width: 20%;
+    padding: 15px;
+    float: left;
+}
+
+footer {
+    background-color: rgb(255, 6, 193);
+    padding: 10px;
+    margin-top: 8px;
+}
+
+.color-red {
+    color: red;
+}
